@@ -2,7 +2,9 @@
 
 Descrição:
 
-Sistema para gerenciamento de estoque desenvolvido como projeto acadêmico para faculdade
+Projeto desenvolvido como parte das atividades do curso de Análise e Desenvolvimento de Sistemas da Faculdade Anhanguera.
+
+Sistema para gerenciamento de estoque
 
 Funcionalidades:
 
