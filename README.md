@@ -1,27 +1,21 @@
-# controle-de-estoque
+📦 Sistema de Gerenciamento de Estoque
 
-Descrição:
+Este repositório contém o código de um sistema de gerenciamento de estoque desenvolvido como parte de um trabalho acadêmico. 
 
-Projeto desenvolvido como parte das atividades do curso de Análise e Desenvolvimento de Sistemas da Faculdade Anhanguera.
+🛠 Funcionalidade:
 
-Sistema para gerenciamento de estoque
+Cadastro de Produtos: Permite adicionar novos produtos ao estoque com informações como nome, categoria, preço e quantidade.
 
-Funcionalidades:
+Exibição de Produtos: Mostra uma lista de todos os produtos cadastrados.
 
-Cadastro de produtos no estoque
+Busca por Nome: Localiza produtos rapidamente pelo nome.
 
-Atualização da quantidade de produtos (adição e remoção)
+Atualização de Estoque: Atualiza a quantidade disponível de um produto existente.
 
-Rastreamento de localização de itens no estoque
+Relatórios: Gera relatórios detalhados sobre os produtos cadastrados e a quantidade em estoque.
 
-Lista de todos os produtos no estoque
+📋 Tecnologias Utilizadas:
 
-Geração de relatórios detalhados
+Linguagem de Programação: Python
 
-Tecnologias Utilizadas:
-
-Linguagem de Programação: 
-Python 
-
-Banco de Dados: 
-SQLite3
+Banco de Dados: SQLite.
